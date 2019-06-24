@@ -1,35 +1,45 @@
 .header {
-  background-color: Lavender;
+    background-color: Lavender;
 }
+
 .header {
-  text-align: center;
+    text-align: center;
 }
+
 .about-me {
-  font-size: 20px;
+    font-size: 20px;
 }
+
 .about-me {
-  opacity: 50%;
+    opacity: 50%;
 }
+
 .title {
-  font-weight: bold;
+    font-weight: bold;
 }
+
 h1 {
-  color: MediumPurple;
+    color: MediumPurple;
 }
+
 body {
- font-family: Georgia; 
+    font-family: Georgia;
 }
+
 body {
-  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/learn-css-selectors-visual-rules/hypnotize_bg.png);
 }
+
 h2 {
-	text-align: left;
-	color: Indigo;
+    text-align: left;
+    color: Indigo;
 }
+
 .footer {
-	background-color: Lavender;
+    background-color: Lavender;
 }
+
 ul {
-	font-family: Serif;
-	font-size: x-large;
+    font-family: Serif;
+    font-size: x-large;
 }
